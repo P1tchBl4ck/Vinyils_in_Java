@@ -35,8 +35,8 @@ public class Vinili extends JFrame {
     private static final String RPM_33              = "33 rpm";
     private static final String RPM_45              = "45 rpm";
     private static final String RPM_78              = "78 rpm";
-    private static final String DLG_CONFIRM_TITLE   = "78 rpm";
-    private static final String DLG_CONFIRM_MESSAGE = "78 rpm";
+    private static final String DLG_CONFIRM_TITLE   = "File was not saved";
+    private static final String DLG_CONFIRM_MESSAGE = "Save before exit?";
     //boolean needed to know whether the collection was saved or not
     private boolean             saved       = true;
     //JComponents
